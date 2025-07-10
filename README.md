@@ -6,7 +6,7 @@
 - 🎓 3rd year Student passionate about **Web Development** and **DSA**
 - 💡 Always exploring new technologies, and contributing to open source
 - 🔭 Currently working on: Python-based American Sign Language project
-- 🌱 Learning and building with **Spring Boot**, **Node.js**, and more
+- 🌱 Learning and building with **Spring Boot**, **Node.js**, and a lot more
 <br>
 
 ## 🌐 Socials:
